@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chilenismos</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_view_definition">ViewDefinitionActivity</string>
+    <string name="credits">Créditos</string>
+    <string name="title_activity_credits">CreditsActivity</string>
+    <string name="created_by">Creado por Eduardo Oyarzún</string>
+    <string name="license">Licenciado bajo GNU GPL</string>
+    <string name="source_code">Código fuente:</string>
+    <string name="source_code_url">https://github.com/eduardrock/chilenismos_app</string>
+
+</resources>
